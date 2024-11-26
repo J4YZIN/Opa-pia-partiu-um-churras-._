@@ -1,4 +1,4 @@
-print("SALVE MEUS CRIA!")
+print("OPA BOA TARDE,SEJAM TODOS BEM VINDOS PARA PARTICIPAR DO MEU CHURRASCO")
 resposta = input("Yo, partiu churras? sim/claro/não/nem dá: ")
 if resposta.lower() == "sim":
     print("Boa meu mano! eu levo a carne e tu o refri!")
