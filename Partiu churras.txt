@@ -1,0 +1,10 @@
+print("SALVE MEUS CRIA!")
+resposta = input("Yo, partiu churras? sim/claro/não/nem dá: ")
+if resposta.lower() == "sim":
+    print("Boa meu mano! eu levo a carne e tu o refri!")
+if resposta.lower() == "claro":
+    print("Assim q eu gosto! tu leva o refri!")
+if resposta.lower() == "não":
+    print("Po cara, na próxima ent?")
+if resposta.lower() == "nem dá":
+    print("Que pena, deixa pra próxima então")
